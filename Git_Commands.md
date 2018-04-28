@@ -19,7 +19,7 @@
 - **Create a new branch**
   - `git checkout -b <branchname>`
 - **Switch from one branch to another** 
-  -`git checkout <branchname>`
+  - `git checkout <branchname>`
 - **List all the branches in your repo**
   - `git branch`
 - **Delete a branch**
@@ -33,7 +33,7 @@
 - **Get commit ID**
   - `git log`
 ---
-### Useful hints
+## Useful hints
 - **Use colorful git output**
   - `git config color.ui true`
 - **Use interactive adding**
