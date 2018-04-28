@@ -45,4 +45,4 @@
 
 ---
 _Links and resorcues_
-* ([GitHub Help](https://help.github.com/))
+* [GitHub Help](https://help.github.com/)
