@@ -1,36 +1,36 @@
 # Basic commands to use Git
-- Create a new local repository
+- **Create a new local repository**
   - `git init`
-- Tell Git who are you
+- **Tell Git who are you**
   - `git config --global user.name "MrAlberto"`
   - `git config --global user.email "example@email.com"`
-- Checkout a repository
+- **Checkout a repository**
   - Local repository `git clone path/to/repository`
   - Remote server `git clone username@host:/path/to/repository`
-- Add files
+- **Add files**
   - `git add <filename>`
   - `git add -A`
-- Commit
+- **Commit**
   - `git commit -m "Commit message"`
-- Push
+- **Push**
   - `git push origin master`
-- Status
+- **Status**
   - `git status`
-- Create a new branch
+- **Create a new branch**
   - `git checkout -b <branchname>`
-- Switch from one branch to another 
+- **Switch from one branch to another** 
   -`git checkout <branchname>`
-- List all the branches in your repo
+- **List all the branches in your repo**
   - `git branch`
-- Delete a branch
+- **Delete a branch**
   - `git branch -d <branchname>`
-- Pull 
+- **Pull** 
   - `git pull`
-- Merge
+- **Merge**
   - `git merge <branch>`
-- Tagging
+- **Tagging**
   - `git tags 1.0.0 <commitID>`
-- Get commit ID
+- **Get commit ID**
   - `git log`
 ---
 ### Useful hints
